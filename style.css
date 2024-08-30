@@ -204,21 +204,21 @@ h2.subtitle {
 
 .tile[data-val="2"] {
     background-image: url(
-        "/Images/BennyTile.svg");
+        "/Images/1.svg");
     background-size:cover;
     background-repeat: no-repeat;
 }
 
 .tile[data-val="4"] {
     background-image: url(
-        "/Images/SammyTile.svg");
+        "/Images/2.svg");
     background-size:cover;
     background-repeat: no-repeat;
 }
 
 .tile[data-val="8"] {
     background-image: url(
-        "/Images/AvacadoTile.svg");
+        "/Images/3.svg");
     background-size:cover;
     background-repeat: no-repeat;
     font-size: 0px;
@@ -226,7 +226,7 @@ h2.subtitle {
 
 .tile[data-val="16"] {
     background-image: url(
-        "/Images/TeddyTile.svg");
+        "/Images/4.svg");
     background-size:cover;
     background-repeat: no-repeat;
     font-size: 0px;
@@ -234,7 +234,7 @@ h2.subtitle {
 
 .tile[data-val="32"] {
     background-image: url(
-        "/Images/CookieTile.svg");
+        "/Images/5.svg");
     background-size:cover;
     background-repeat: no-repeat;
     font-size: 0px;
@@ -242,7 +242,7 @@ h2.subtitle {
 
 .tile[data-val="64"] {
     background-image: url(
-        "/Images/BlippieTile.svg");
+        "/Images/6.svg");
     background-size:cover;
     background-repeat: no-repeat;
     font-size: 0px;
@@ -250,7 +250,7 @@ h2.subtitle {
 
 .tile[data-val="128"] {
     background-image: url(
-        "/Images/LightningTile.svg");
+        "/Images/7.svg");
     background-size:cover;
     background-repeat: no-repeat;
     font-size: 0px;
@@ -258,34 +258,32 @@ h2.subtitle {
 
 .tile[data-val="256"] {
     background-image: url(
-        "/Images/SebiTile.svg");
+        "/Images/8.svg");
     background-size:cover;
     background-repeat: no-repeat;
     font-size: 0px;
 }
 
 .tile[data-val="512"] {
-    background: #1eeadb;
     background-image: url(
-        "/Images/AvacadoTile.svg");
+        "/Images/9.svg");
     background-size:cover;
     background-repeat: no-repeat;
     font-size: 0px;
 }
 
 .tile[data-val="1024"] {
-    background: #1eeadb;
     background-image: url(
-        "/Images/SammyTile.svg");
+        "/Images/10.svg");
     background-size:cover;
     background-repeat: no-repeat;
     font-size: 0px;
 }
 
 .tile[data-val="2048"] {
-    background: #1eeadb;
+    background: #ffcbf2;
     background-image: url(
-        "/Images/BennyTile.svg");
+        "/Images/4.svg");
     background-size:cover;
     background-repeat: no-repeat;
     font-size: 0px;
@@ -298,7 +296,7 @@ h2.subtitle {
     justify-content: center;
     width: 100%;
     height: 100%;
-    background: #96b9e1;
+    background: #ffcbf2;
     z-index: 100;
     opacity: 0;
     transition: all 1s ease;
