@@ -1,4 +1,4 @@
-@media screen and (max-width:2500px){
+@media screen and (max-width:1250px){
     html,body{
         font-size: 15px;
     }
@@ -6,7 +6,7 @@
         width: 280px;
     }
     h1.title{
-        font-size: 20px;
+        font-size: 31px;
     }
     .score-container,
     .best-container{
